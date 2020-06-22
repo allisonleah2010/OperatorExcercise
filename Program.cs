@@ -27,7 +27,7 @@ namespace OperatorExercise
         }
 
         public static double AreaOfCircle(double r)
-        {
+        {                
             return Math.PI * (r * r);
 
         }
